@@ -23,6 +23,11 @@ I have 6+ years of enterprise software development experience and recently retur
 - Google Play Closed Testing
 
 ## 🛠 Tech Stack
+## 📈 GitHub Stats
+
+![Shilpi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shilpi924&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilpi924&layout=compact)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -40,6 +45,19 @@ I have 6+ years of enterprise software development experience and recently retur
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
+## 📈 GitHub Stats
+
+![Shilpi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shilpi924&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilpi924&layout=compact)
+
+## 🌱 Currently Working On
+
+- Enhancing Lumina with new AI-powered reading experiences
+- Building intelligent book recommendation features
+- Expanding mobile capabilities with Capacitor
+- Exploring modern AI application architectures
+- 
 ## 📫 Connect
 
 - Portfolio: https://luminapro.web.app
