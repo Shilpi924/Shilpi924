@@ -24,11 +24,21 @@ I have 6+ years of enterprise software development experience and recently retur
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, C#, JavaScript, SQL, HTML, CSS  
-**Frontend:** React, Vite, Capacitor  
-**AI:** Gemini API, Claude API, Prompt Engineering  
-**Cloud:** Firebase Authentication, Firestore, Cloud Functions, Hosting, Analytics, App Check  
-**Tools:** Git, GitHub, Docker, VS Code, Postman  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![Google Gemini](https://img.shields.io/badge/Gemini-AI-blue?style=for-the-badge)
+
+![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ## 📫 Connect
 
