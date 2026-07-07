@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shilpi Sharma 👋
 
-<!--
-**Shilpi924/Shilpi924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Software Engineer | Full Stack Software Developer | Creator of Lumina**
 
-Here are some ideas to get you started:
+I build AI-powered web and mobile applications using React, Firebase, Gemini, Claude, and modern cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 6+ years of enterprise software development experience and recently returned to software engineering by building and shipping **Lumina**, an AI-powered reading companion currently in Google Play Closed Testing.
+
+## 🚀 Featured Project: Lumina
+
+**Lumina** is an AI-powered cross-platform web and Android application for intelligent book discovery and personal library management.
+
+### Key Features
+- Conversational AI using Gemini and Claude
+- Voice assistant
+- Image understanding
+- Barcode and ISBN scanning
+- Digital library card wallet
+- Personalized book recommendations
+- Offline-first caching
+- Lumina Plus subscriptions with RevenueCat
+- Firebase Authentication, Firestore, Cloud Functions, Hosting, Analytics, and App Check
+- Google Play Closed Testing
+
+## 🛠 Tech Stack
+
+**Languages:** Python, C#, JavaScript, SQL, HTML, CSS  
+**Frontend:** React, Vite, Capacitor  
+**AI:** Gemini API, Claude API, Prompt Engineering  
+**Cloud:** Firebase Authentication, Firestore, Cloud Functions, Hosting, Analytics, App Check  
+**Tools:** Git, GitHub, Docker, VS Code, Postman  
+
+## 📫 Connect
+
+- Portfolio: https://luminapro.web.app
+- LinkedIn: https://www.linkedin.com/in/shilpi-sharma-28496b11
+- GitHub: https://github.com/Shilpi924
